@@ -1,0 +1,48 @@
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaEmailService\OmegaEmailService\bin\Debug\OmegaEmailService.exe.config
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaEmailService\OmegaEmailService\bin\Debug\OmegaEmailService.exe
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaEmailService\OmegaEmailService\bin\Debug\OmegaEmailService.pdb
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaEmailService\OmegaEmailService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.OmegaEmailService.resources
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.csproj.GenerateResource.Cache
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.exe
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.pdb
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.ProjectInstaller.resources
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaEmailService\OmegaEmailService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.ProjectInstaller.resources
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.csproj.GenerateResource.Cache
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.OmegaEmailServiceForTaskSystem.resources
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaEmailService\OmegaEmailService\bin\Debug\OmegaEmailServiceForTaskSystem.exe.config
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaEmailService\OmegaEmailService\bin\Debug\OmegaEmailServiceForTaskSystem.exe
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaEmailService\OmegaEmailService\bin\Debug\OmegaEmailServiceForTaskSystem.pdb
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailServiceForTaskSystem.exe
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaEmailService\OmegaEmailService\obj\Debug\OmegaEmailServiceForTaskSystem.pdb
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\bin\Debug\OmegaEmailServiceForTaskSystem.exe.config
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\obj\Debug\OmegaEmailServiceForTaskSystem.exe
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\obj\Debug\OmegaEmailServiceForTaskSystem.pdb
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\obj\Debug\OmegaEmailService.ProjectInstaller.resources
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\obj\Debug\OmegaEmailService.OmegaEmailServiceForTaskSystem.resources
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\obj\Debug\OmegaEmailService.csproj.GenerateResource.Cache
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\bin\Debug\OmegaEmailServiceForTaskSystem.exe
+C:\Documents and Settings\muralit\My Documents\Raja\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\bin\Debug\OmegaEmailServiceForTaskSystem.pdb
+E:\RAJA\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\bin\Debug\OmegaEmailServiceForTaskSystem.exe.config
+E:\RAJA\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\obj\Debug\OmegaEmailServiceForTaskSystem.exe
+E:\RAJA\OmegaCubeTaskService\OmegaTaskSystemService1\OmegaEmailService\obj\Debug\OmegaEmailServiceForTaskSystem.pdb
+E:\Raja\OmegaCubeEdgeExchangeEmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\bin\Debug\OmegacubeEdgeEmailService.exe.config
+E:\Raja\OmegaCubeEdgeExchangeEmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\ResolveAssemblyReference.cache
+E:\Raja\OmegaCubeEdgeExchangeEmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.ProjectInstaller.resources
+E:\Raja\OmegaCubeEdgeExchangeEmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.OmegaEmailServiceForTaskSystem.resources
+E:\Raja\OmegaCubeEdgeExchangeEmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.csproj.GenerateResource.Cache
+E:\Raja\OmegaCubeEdgeExchangeEmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\bin\Debug\OmegacubeEdgeEmailService.exe
+E:\Raja\OmegaCubeEdgeExchangeEmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\bin\Debug\OmegacubeEdgeEmailService.pdb
+E:\Raja\OmegaCubeEdgeExchangeEmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegacubeEdgeEmailService.exe
+E:\Raja\OmegaCubeEdgeExchangeEmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegacubeEdgeEmailService.pdb
+E:\Raja\Clients\CBMI\EmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\ResolveAssemblyReference.cache
+E:\Raja\Clients\CBMI\EmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.ProjectInstaller.resources
+E:\Raja\Clients\CBMI\EmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.OmegaEmailServiceForTaskSystem.resources
+E:\Raja\Clients\CBMI\EmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegaEmailService.csproj.GenerateResource.Cache
+E:\Raja\Clients\CBMI\EmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\bin\Debug\OmegacubeEmailService.exe.config
+E:\Raja\Clients\CBMI\EmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\bin\Debug\OmegacubeEmailService.exe
+E:\Raja\Clients\CBMI\EmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\bin\Debug\OmegacubeEmailService.pdb
+E:\Raja\Clients\CBMI\EmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegacubeEmailService.exe
+E:\Raja\Clients\CBMI\EmailService\OmegaCubeEdgeExchangeEmailService\OmegaEmailService\obj\Debug\OmegacubeEmailService.pdb

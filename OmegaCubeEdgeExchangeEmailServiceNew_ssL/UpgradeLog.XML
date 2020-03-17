@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OmegaEmailService">
+</Property><Property Name="Solution File" Value="C:\Portals\OmegaCubeEdgeExchangeEmailService\OmegaEmailService.sln">
+</Property><Property Name="User Options File" Value="C:\Portals\OmegaCubeEdgeExchangeEmailService\OmegaEmailService.suo">
+</Property><Property Name="Date" Value="Monday, May 10, 2010">
+</Property><Property Name="Time" Value="4:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="OmegaEmailService.sln" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService.sln">
+</Event><Event ErrorLevel="0" Project="" Source="OmegaEmailService.suo" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService.suo">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\OmegaEmailService.csproj" Description="Project file successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\OmegaEmailService.csproj">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\ProjectInstaller.cs" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\ProjectInstaller.cs">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\ProjectInstaller.Designer.cs" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\ProjectInstaller.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\Service1.cs" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\Service1.cs">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\Service1.Designer.cs" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\Service1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\Program.cs" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\Program.cs">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\App.config" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\App.config">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\ProjectInstaller.resx" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\ProjectInstaller.resx">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\Service1.resx" Description="File successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailService\Service1.resx">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\OmegaEmailService.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OmegaEmailService" Source="OmegaEmailService\OmegaEmailService.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OmegaEmailServiceSetup.vdproj" Source="OmegaEmailServiceSetup\OmegaEmailServiceSetup.vdproj" Description="Project file successfully backed up as C:\Portals\OmegaCubeEdgeExchangeEmailService\Backup\OmegaEmailServiceSetup\OmegaEmailServiceSetup.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="OmegaEmailService.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="OmegaEmailService.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OmegaEmailService" Source="OmegaEmailService\OmegaEmailService.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
