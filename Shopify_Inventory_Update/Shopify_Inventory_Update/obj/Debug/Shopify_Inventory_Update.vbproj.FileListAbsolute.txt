@@ -1,0 +1,39 @@
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.exe.config
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.exe
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.pdb
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.xml
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.vbprojResolveAssemblyReference.cache
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.Resources.resources
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.ProjectInstaller.resources
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.vbproj.GenerateResource.Cache
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.exe
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.xml
+c:\users\sudheer.peddireddi\documents\visual studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.pdb
+C:\Users\sudheer.peddireddi\Documents\Visual Studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sudheer.peddireddi\Documents\Visual Studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sudheer.peddireddi\Documents\Visual Studio 2015\Projects\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Newtonsoft.Json.xml
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.exe.config
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.exe
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.xml
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.pdb
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.exe
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.pdb
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.xml
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Newtonsoft.Json.dll
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.vbprojResolveAssemblyReference.cache
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.Resources.resources
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.ProjectInstaller.resources
+D:\Sudheer_Projects_Bkup\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.vbproj.GenerateResource.Cache
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.exe.config
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.exe
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.xml
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.pdb
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.exe
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.pdb
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Shopify_Inventory_Update.xml
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Newtonsoft.Json.pdb
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\bin\Debug\Newtonsoft.Json.xml
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.vbprojResolveAssemblyReference.cache
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.Resources.resources
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.ProjectInstaller.resources
+C:\Omegacube_ERP\Services\Froedge\Shopify_Inventory_Update\Shopify_Inventory_Update\obj\Debug\Shopify_Inventory_Update.vbproj.GenerateResource.Cache
